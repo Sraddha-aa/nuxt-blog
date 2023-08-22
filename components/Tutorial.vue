@@ -1,4 +1,5 @@
 <!-- components/SimpleComponent.vue -->
+<!-- yes -->
 <template>
   <div>
     <h1>Hello from Nuxt.js</h1>
@@ -15,3 +16,4 @@ export default {
   }
 };
 </script>
+
