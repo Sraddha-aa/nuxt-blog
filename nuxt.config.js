@@ -11,7 +11,7 @@ export default {
        hid: "cookieyes",
        type: "text/javascript",
      },
-   ]
+   ],
     title: 'nuxt-blog',
     htmlAttrs: {
       lang: 'en'
