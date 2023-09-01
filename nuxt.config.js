@@ -5,13 +5,6 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head:
   {
-    script: [
-     {
-       src: "https://cdn-cookieyes.com/client_data/XXXXXXXX/script.js",
-       hid: "cookieyes",
-       type: "text/javascript",
-     },
-   ],
     title: 'nuxt-blog',
     htmlAttrs: {
       lang: 'en'
